@@ -1,0 +1,499 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abu Siam\\source\\repos\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|c:\\users\\abu siam\\source\\repos\\project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\newmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\newmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\sellinghistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\sellinghistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\sellinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\sellinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\genaratedbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\genaratedbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\sellinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\sellinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\genaratedbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\genaratedbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\managecoustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\managecoustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\managecoustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\managecoustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\managesalesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\managesalesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\managecoustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\managecoustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\managesalesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\managesalesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\newmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\newmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\sellinghistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\sellinghistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|C:\\Users\\Abu Siam\\source\\repos\\Project\\project\\manageemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7877E402-7E27-48D5-B686-1ADABD172627}|Project\\Project.csproj|solutionrelative:project\\manageemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "Project\\ManageEmployee.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageEmployee.cs [Design]",
+              "RelativeToolTip": "Project\\ManageEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:33:28.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "Project\\ManageEmployee.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageEmployee.cs",
+              "RelativeToolTip": "Project\\ManageEmployee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:19:04.75Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageCoustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageCoustomer.cs",
+              "RelativeDocumentMoniker": "Project\\ManageCoustomer.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageCoustomer.cs",
+              "RelativeToolTip": "Project\\ManageCoustomer.cs",
+              "ViewState": "AgIAABIAAAAAZmZmZmYiwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:00:53.426Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:21:02.942Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Project\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\DataAccess.cs",
+              "RelativeToolTip": "Project\\DataAccess.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:08:04.078Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Project\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Project\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T17:56:40.252Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Form1.cs",
+              "RelativeToolTip": "Project\\Form1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:26:41.899Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Project\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Dashboard.cs",
+              "RelativeToolTip": "Project\\Dashboard.cs",
+              "ViewState": "AgIAABUAAADAmZmZmZknwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:10:11.015Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageCoustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageCoustomer.cs",
+              "RelativeDocumentMoniker": "Project\\ManageCoustomer.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageCoustomer.cs [Design]",
+              "RelativeToolTip": "Project\\ManageCoustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:09:08.462Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageSalesman.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageSalesman.cs",
+              "RelativeDocumentMoniker": "Project\\ManageSalesman.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageSalesman.cs [Design]",
+              "RelativeToolTip": "Project\\ManageSalesman.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:08:31.755Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageSalesman.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageSalesman.cs",
+              "RelativeDocumentMoniker": "Project\\ManageSalesman.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageSalesman.cs",
+              "RelativeToolTip": "Project\\ManageSalesman.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:25:56.79Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "Project\\ProductDetails.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ProductDetails.cs [Design]",
+              "RelativeToolTip": "Project\\ProductDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:48:46.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "Project\\ProductDetails.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ProductDetails.cs",
+              "RelativeToolTip": "Project\\ProductDetails.cs",
+              "ViewState": "AgIAAKsAAADgZWZmZmYkwFgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:55:19.084Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesMan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SalesMan.cs",
+              "RelativeDocumentMoniker": "Project\\SalesMan.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SalesMan.cs [Design]",
+              "RelativeToolTip": "Project\\SalesMan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T16:30:03.207Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesMan.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SalesMan.cs",
+              "RelativeDocumentMoniker": "Project\\SalesMan.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SalesMan.cs",
+              "RelativeToolTip": "Project\\SalesMan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T16:42:25.526Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenaratedBill.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\GenaratedBill.cs",
+              "RelativeDocumentMoniker": "Project\\GenaratedBill.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\GenaratedBill.cs",
+              "RelativeToolTip": "Project\\GenaratedBill.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:46:08.12Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenaratedBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\GenaratedBill.cs",
+              "RelativeDocumentMoniker": "Project\\GenaratedBill.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\GenaratedBill.cs [Design]",
+              "RelativeToolTip": "Project\\GenaratedBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:40:58.064Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Manager.cs",
+              "RelativeDocumentMoniker": "Project\\Manager.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Manager.cs [Design]",
+              "RelativeToolTip": "Project\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:05:12.383Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Manager.cs",
+              "RelativeDocumentMoniker": "Project\\Manager.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Manager.cs",
+              "RelativeToolTip": "Project\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8CAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:33:59.538Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellingHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SellingHistory.cs",
+              "RelativeDocumentMoniker": "Project\\SellingHistory.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SellingHistory.cs",
+              "RelativeToolTip": "Project\\SellingHistory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:30:29.466Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SellingHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SellingHistory.cs",
+              "RelativeDocumentMoniker": "Project\\SellingHistory.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SellingHistory.cs [Design]",
+              "RelativeToolTip": "Project\\SellingHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:17:30.451Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellingHistoryManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SellingHistoryManager.cs",
+              "RelativeDocumentMoniker": "Project\\SellingHistoryManager.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SellingHistoryManager.cs [Design]",
+              "RelativeToolTip": "Project\\SellingHistoryManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:55:46.696Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SellingHistoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SellingHistoryManager.cs",
+              "RelativeDocumentMoniker": "Project\\SellingHistoryManager.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\SellingHistoryManager.cs",
+              "RelativeToolTip": "Project\\SellingHistoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:57:15.727Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewManger.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\NewManger.cs",
+              "RelativeDocumentMoniker": "Project\\NewManger.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\NewManger.cs [Design]",
+              "RelativeToolTip": "Project\\NewManger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T03:36:44.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewManger.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\NewManger.cs",
+              "RelativeDocumentMoniker": "Project\\NewManger.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\NewManger.cs",
+              "RelativeToolTip": "Project\\NewManger.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAA0CAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T03:43:25.875Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Manager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Manager.Designer.cs",
+              "RelativeDocumentMoniker": "Project\\Manager.Designer.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\Manager.Designer.cs",
+              "RelativeToolTip": "Project\\Manager.Designer.cs",
+              "ViewState": "AgIAAHQGAABgmZmZmZkvwHsGAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T05:16:56.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageCoustomer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageCoustomer.Designer.cs",
+              "RelativeDocumentMoniker": "Project\\ManageCoustomer.Designer.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageCoustomer.Designer.cs",
+              "RelativeToolTip": "Project\\ManageCoustomer.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:16:07.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageEmployee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageEmployee.Designer.cs",
+              "RelativeDocumentMoniker": "Project\\ManageEmployee.Designer.cs",
+              "ToolTip": "C:\\Users\\Abu Siam\\source\\repos\\Project\\Project\\ManageEmployee.Designer.cs",
+              "RelativeToolTip": "Project\\ManageEmployee.Designer.cs",
+              "ViewState": "AgIAAE4CAAAAAAAAAAApwGcCAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:07:39.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
